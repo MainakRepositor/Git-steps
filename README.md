@@ -42,4 +42,4 @@ The series of steps you can use to commit a document in your GitHub from your lo
 THANK YOU 🙏🙏🙏
 
 
-[![made-with-python](https://img.shields.io/badge/Made%20by-Mainak-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20by-Mainak-1f425f.svg)](https://www.github.com/MainakRepositor)
