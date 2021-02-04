@@ -40,3 +40,6 @@ The series of steps you can use to commit a document in your GitHub from your lo
 -------------------------------------------
 
 THANK YOU 🙏🙏🙏
+
+
+[![Generic badge](https://img.shields.io/badge/<REMOTE PUSH>-<GITHUB>-<GREEN>.svg)](https://shields.io/)
