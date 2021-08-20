@@ -22,7 +22,8 @@ The series of steps you can use to commit a document in your GitHub from your lo
 	vi.  git add filename.extension
 	vii. git status
 	viii.git commit -m "any comment" filename.extension
-	ix.  git push -u origin master
+	ix.  git remote add origin https://<PERSONALACCESSTOKEN>@github.com/<USERNAME>/<REPO>.git
+	x.   git push -u origin master
 
 6. For modification  :
 ------------------------
@@ -41,5 +42,4 @@ The series of steps you can use to commit a document in your GitHub from your lo
 
 THANK YOU 🙏🙏🙏
 
-
-[![made-with-python](https://img.shields.io/badge/Made%20by-Mainak-1f425f.svg)](https://www.github.com/MainakRepositor)
+Made by Mainak
