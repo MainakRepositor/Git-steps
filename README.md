@@ -18,13 +18,12 @@ The series of steps you can use to commit a document in your GitHub from your lo
 	ii.  git config --global user.email your email             //(without inverted commas)
 	iii. git clone git@github.com:AccountName/Reponame
 	iv.  cd Repository/
-	v.   ls
-	vi.  git add filename.extension
-	vii. git status
-	viii.git commit -m "any comment" filename.extension
-	ix.  git remote remove origin
-	x.  git remote add origin git@github.com:AccountName/Reponame
-	xi.   git push -u origin master
+ You can move the files from the main file to the newly created blank file with the same name. 
+	
+	v.  git add .
+	vi. git status
+	vii.git commit -m "any comment" filename.extension
+	viii. git push -u origin [branch name as per your repository branch] <main/master>
 
 6. For modification  :
 ------------------------
